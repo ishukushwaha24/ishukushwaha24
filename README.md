@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**ishukushwaha24/ishukushwaha24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ishu, a computer science student based in Prayagraj, India.
 
-Here are some ideas to get you started:
+I love learning new things and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea comes to my mind, I try to build it and ship it.
+
+My main tech stack is Python, Java, C++, and JavaScript. My favorite tools are VS Code and GitHub.
+
+Currently I am learning DSA and Machine Learning.
+
+If you want to connect with me, you can find me on [LinkedIn](https://www.linkedin.com/in/ishu-kushwaha-10942b381) or email me at ishukushwaha24@gmail.com.
+
+## Fun Facts
+- I love cricket and gaming
+- My favorite movies are Interstellar and The Shawshank Redemption
+- **Hobbies:** coding, music, gym
