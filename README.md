@@ -1,140 +1,108 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,45:101B35,75:35106A,100:00C8FF&text=ISHU%20KUSHWAHA&fontSize=55&fontColor=FFFFFF&stroke=00D9FF&strokeWidth=1&animation=twinkling&fontAlignY=42&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=16&descAlignY=63"/>
+# ISHU KUSHWAHA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;Python+%7C+Java+%7C+C%2B%2B+%7C+JavaScript;Exploring+DSA+%26+Machine+Learning;Turning+Ideas+Into+Reality;Building+Something+Meaningful+Every+Day"/>
+### Computer Science Student · Developer · Curious Mind
 
-<br/>
+*Learning by building. Growing by solving.*
 
-<a href="https://github.com/ishukushwaha24">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://www.instagram.com/ishu_kushwaha01/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ishukushwaha24&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+[![GitHub](https://img.shields.io/badge/GitHub-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/ishukushwaha24)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ishu_Kushwaha01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishu-kushwaha-10942b381/)
 
 </div>
 
 ---
 
-<h2 align="center">◈ ABOUT ME</h2>
+## 01 / A LITTLE ABOUT ME
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+Hey, I'm Ishu!
 
-Hey! I'm **Ishu Kushwaha**, a Computer Science Engineer from Prayagraj, India.
+I'm a Computer Science student interested in understanding how technology works and using it to build useful things.
 
-I'm passionate about technology, programming and creating meaningful things.
+Currently spending my time exploring programming, sharpening my problem-solving skills and experimenting with new ideas.
 
+- 📍 Prayagraj, India
 - 💻 Exploring software development
-- 🧠 Learning Data Structures & Algorithms
+- 🧩 Practising Data Structures & Algorithms
 - 🤖 Exploring Machine Learning
-- 🚀 Building projects and experimenting with ideas
-- 🎯 Always curious about what's next in tech
-
-<br clear="right"/>
+- 🚀 Building and experimenting with projects
 
 ---
 
-<h2 align="center">◈ MY TECH STACK</h2>
+## 02 / THINGS I WORK WITH
 
-<div align="center">
+**Programming Languages**
 
-### LANGUAGES
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark"/>
+**Tools & Technologies**
 
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git&theme=dark"/>
-
-### CURRENT INTERESTS
-
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<h2 align="center">◈ FEATURED PROJECT</h2>
-
-<div align="center">
-
-<a href="https://github.com/ishukushwaha24/MediCareX">
-<img src="https://img.shields.io/badge/PROJECT-MediCareX-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
+## 03 / SELECTED WORK
 
 ### 🏥 MediCareX
 
-A healthcare management demo featuring a web frontend and Express backend.
+A healthcare management project exploring digital healthcare workflows.
 
-**Features**
-- Login and token-based authentication
-- Healthcare data API
-- Live data updates
-- Demo simulation for beds, patients, doctors, medicines and ambulances
+[Explore the repository →](https://github.com/ishukushwaha24/MediCareX)
 
-**Tech:** JavaScript · Node.js · Express · HTML
+---
 
-<a href="https://github.com/ishukushwaha24/MediCareX">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+## 04 / THE PROBLEM-SOLVING CORNER
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Ishu_Kushwaha01/">
+
+<img src="https://leetcard.jacoblin.cool/Ishu_Kushwaha01?theme=light&font=Baloo&ext=heatmap" width="95%"/>
+
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">◈ GITHUB ANALYTICS</h2>
+## 05 / GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishukushwaha24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishukushwaha24&show_icons=true&hide_border=true&bg_color=FFF9F0&title_color=252525&icon_color=E87532&text_color=555555" width="48%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishukushwaha24&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=ishukushwaha24&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<h2 align="center">◈ CONTRIBUTION GRAPH</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishukushwaha24&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-<h2 align="center">◈ BEYOND THE CODE</h2>
-
-<div align="center">
-
-🏏 Cricket &nbsp; 🎮 Gaming &nbsp; 🎵 Music
-
-💻 Coding &nbsp; 🏋️ Gym &nbsp; 🎬 Movies
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishukushwaha24&layout=compact&hide_border=true&bg_color=FFF9F0&title_color=252525&text_color=555555" width="48%"/>
 
 <br/>
 
-*"Great ideas deserve to be built."*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishukushwaha24&theme=default&hide_border=true&background=FFF9F0&ring=E87532&fire=E87532&currStreakLabel=252525" width="80%"/>
 
 </div>
 
 ---
 
+## 06 / OUTSIDE THE TERMINAL
+
+🏏 Cricket · 🎮 Gaming · 🎵 Music · 🏋️ Fitness
+
+Because there's more to life than semicolons.
+
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:35106A,100:050505&height=130&section=footer"/>
+### KEEP LEARNING. KEEP CREATING.
+
+*The best version is still under development.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E87532&height=3&section=footer" width="100%"/>
 
 </div>
