@@ -1,13 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:321044,55:792C85,80:D65BA8,100:9B7BFF&height=240&section=header&text=ISHU%20KUSHWAHA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=15&descColor=FFD6F3&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:321044,55:792C85,80:D65BA8,100:9B7BFF&height=280&section=header&text=ISHU%20KUSHWAHA&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=17&descColor=FFD6F3&descAlignY=57&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=E9A5FF&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+STUDENT;DEVELOPER+%7C+PROBLEM+SOLVER;PYTHON+%7C+C%2B%2B+%7C+JAVASCRIPT;EXPLORING+MACHINE+LEARNING;BUILDING+BEYOND+THE+ORDINARY"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=E9A5FF&center=true&vCenter=true&width=650&lines=COMPUTER+SCIENCE+STUDENT;DEVELOPER+%7C+PROBLEM+SOLVER;PYTHON+%7C+C%2B%2B+%7C+JAVASCRIPT;EXPLORING+MACHINE+LEARNING;BUILDING+BEYOND+THE+ORDINARY"/>
 
 <br/><br/>
 
-<a href="https://github.com/ishukushwaha24"><img src="https://img.shields.io/badge/GITHUB-181020?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381/"><img src="https://img.shields.io/badge/LINKEDIN-713D91?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ishukushwaha24">
+<img src="https://img.shields.io/badge/GITHUB-181020?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381/">
+<img src="https://img.shields.io/badge/LINKEDIN-713D91?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -19,13 +23,13 @@
 
 <div align="center">
 
-## ◈ 01 — THE PERSON BEHIND THE CODE
+# ◈ 01 — THE PERSON BEHIND THE CODE
 
 **Not just writing code. Building a mindset.**
 
 </div>
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Hey! I'm **Ishu Kushwaha**, a Computer Science student from Prayagraj, India.
 
@@ -43,7 +47,7 @@ I enjoy exploring technology, solving challenging problems and turning ideas int
 
 <div align="center">
 
-## ◈ 02 — MY TECH ARSENAL
+# ◈ 02 — MY TECH ARSENAL
 
 *Tools are just the beginning. What you build with them matters.*
 
@@ -66,7 +70,7 @@ I enjoy exploring technology, solving challenging problems and turning ideas int
 
 <div align="center">
 
-## ◈ 03 — FEATURED CREATION
+# ◈ 03 — FEATURED CREATION
 
 ### 🏥 MediCareX
 
@@ -86,7 +90,7 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <div align="center">
 
-## ◈ 04 — LEETCODE JOURNEY
+# ◈ 04 — LEETCODE JOURNEY
 
 *Sharpening my logic, one problem at a time.*
 
@@ -96,7 +100,7 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <a href="https://leetcode.com/u/Ishu_Kushwaha01/">
 
-<img src="https://leetcard.jacoblin.cool/Ishu_Kushwaha01?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" width="340" alt="LeetCode statistics and activity heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Ishu_Kushwaha01?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" width="100%" alt="Ishu's LeetCode statistics and activity heatmap"/>
 
 </a>
 
@@ -106,7 +110,7 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <div align="center">
 
-## ◈ 05 — GITHUB STATISTICS
+# ◈ 05 — GITHUB STATISTICS
 
 *Consistency creates progress.*
 
@@ -116,7 +120,7 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=ishukushwaha24&theme=dark&hide_border=true&background=100B18&ring=DB83EA&fire=F08BCB&currStreakLabel=E9A5FF&sideLabels=F3E8FF&dates=B8A8C8"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=ishukushwaha24&theme=dark&hide_border=true&background=100B18&ring=DB83EA&fire=F08BCB&currStreakLabel=E9A5FF&sideLabels=F3E8FF&dates=B8A8C8"/>
 
 </div>
 
@@ -124,7 +128,7 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <div align="center">
 
-## ◈ 06 — CONTRIBUTION UNIVERSE
+# ◈ 06 — CONTRIBUTION UNIVERSE
 
 ### Small commits. Big ambitions.
 
@@ -140,7 +144,7 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <div align="center">
 
-## ◈ 07 — BEYOND THE SCREEN
+# ◈ 07 — BEYOND THE SCREEN
 
 | INTEREST | THE VIBE |
 |:---:|:---:|
@@ -156,19 +160,24 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <div align="center">
 
-## ◈ 08 — LET'S CONNECT
+# ◈ 08 — LET'S CONNECT
 
 **Good conversations lead to great ideas.**
 
 <br/>
 
-<a href="https://github.com/ishukushwaha24"><img src="https://img.shields.io/badge/GITHUB-181020?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381/"><img src="https://img.shields.io/badge/LINKEDIN-713D91?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ishukushwaha24">
+<img src="https://img.shields.io/badge/GITHUB-181020?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381/">
+<img src="https://img.shields.io/badge/LINKEDIN-713D91?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
 ### DREAM BIG. BUILD FEARLESSLY. STAY CURIOUS.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:321044,70:792C85,100:D65BA8&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:321044,70:792C85,100:D65BA8&height=160&section=footer"/>
 
 </div>
