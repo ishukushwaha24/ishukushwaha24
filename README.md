@@ -4,10 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=E9A5FF&center=true&vCenter=true&width=650&lines=COMPUTER+SCIENCE+STUDENT;DEVELOPER+%7C+PROBLEM+SOLVER;PYTHON+%7C+C%2B%2B+%7C+JAVASCRIPT;EXPLORING+MACHINE+LEARNING;BUILDING+BEYOND+THE+ORDINARY"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/ishukushwaha24"><img src="https://img.shields.io/badge/GITHUB-181020?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381/"><img src="https://img.shields.io/badge/LINKEDIN-713D91?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ishukushwaha24">
+<img src="https://img.shields.io/badge/GITHUB-181020?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381/">
+<img src="https://img.shields.io/badge/LINKEDIN-713D91?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -90,18 +94,18 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <div align="center">
 
-# ◈ 04 — PROBLEM SOLVING
+# ◈ 04 — LEETCODE JOURNEY
 
 *Sharpening my logic, one problem at a time.*
 
-<a href="https://leetcode.com/u/Ishu_Kushwaha01/">
-<img src="https://img.shields.io/badge/LeetCode-Ishu_Kushwaha01-CB72CF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/152_Problems_Solved-24152F?style=flat-square&logo=leetcode&logoColor=E9A5FF&labelColor=181020"/>
 
 <br/>
 
 <a href="https://leetcode.com/u/Ishu_Kushwaha01/">
-Visit my LeetCode profile →
+
+<img src="https://leetcard.jacoblin.cool/Ishu_Kushwaha01?theme=dark&font=Fira%20Code&ext=heatmap" width="420"/>
+
 </a>
 
 </div>
