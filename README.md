@@ -72,17 +72,13 @@ I enjoy exploring technology, solving challenging problems and turning ideas int
 
 # ◈ 03 — FEATURED CREATION
 
-</div>
-
 ### 🏥 MediCareX
 
 **A step towards smarter healthcare management.**
 
 A healthcare management project exploring digital healthcare workflows and data-driven solutions.
 
-**Technologies:** `JavaScript` `Node.js` `Express` `HTML`
-
-<div align="center">
+`JavaScript` `Node.js` `Express` `HTML`
 
 <a href="https://github.com/ishukushwaha24/MediCareX">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-CB72CF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,13 +94,13 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 *Sharpening my logic, one problem at a time.*
 
-<img src="https://img.shields.io/badge/152_Problems_Solved-24152F?style=flat-square&logo=leetcode&logoColor=E9A5FF&labelColor=181020"/>
+<img src="https://img.shields.io/badge/152_PROBLEMS_SOLVED-24152F?style=flat-square&logo=leetcode&logoColor=E9A5FF&labelColor=181020"/>
 
 <br/>
 
 <a href="https://leetcode.com/u/Ishu_Kushwaha01/">
 
-<img src="https://leetcard.jacoblin.cool/Ishu_Kushwaha01?theme=dark&font=Fira%20Code&ext=heatmap" width="420"/>
+<img src="https://leetcard.jacoblin.cool/Ishu_Kushwaha01?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" width="100%" alt="Ishu's LeetCode statistics and activity heatmap"/>
 
 </a>
 
