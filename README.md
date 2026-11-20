@@ -2,19 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:321044,55:792C85,80:D65BA8,100:9B7BFF&height=280&section=header&text=ISHU%20KUSHWAHA&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=17&descColor=FFD6F3&descAlignY=57&animation=fadeIn"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=E9A5FF&center=true&vCenter=true&width=650&lines=COMPUTER+SCIENCE+STUDENT;DEVELOPER+%7C+PROBLEM+SOLVER;PYTHON+%7C+C%2B%2B+%7C+JAVASCRIPT;EXPLORING+MACHINE+LEARNING;BUILDING+BEYOND+THE+ORDINARY"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ishukushwaha24"><img src="https://img.shields.io/badge/GITHUB-181020?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Ishu_Kushwaha01/"><img src="https://img.shields.io/badge/LEETCODE-CB72CF?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381/"><img src="https://img.shields.io/badge/LINKEDIN-713D91?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ishukushwaha24&style=for-the-badge&color=B65BC9&label=VISITORS"/>
 
 </div>
 
@@ -28,7 +21,7 @@
 
 </div>
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Hey! I'm **Ishu Kushwaha**, a Computer Science student from Prayagraj, India.
 
@@ -59,7 +52,6 @@ I enjoy exploring technology, solving challenging problems and turning ideas int
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark"/>
 
 <img src="https://img.shields.io/badge/TINKERCAD-BA65D5?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-181020?style=for-the-badge&logo=leetcode&logoColor=E9A5FF"/>
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-181020?style=for-the-badge&logo=python&logoColor=C78BFF"/>
 
 </div>
@@ -72,46 +64,38 @@ I enjoy exploring technology, solving challenging problems and turning ideas int
 
 </div>
 
-<table>
-<tr>
-<td width="100%">
-
-<h2>🏥 MediCareX</h2>
+### 🏥 MediCareX
 
 **A step towards smarter healthcare management.**
 
 A healthcare management project exploring digital healthcare workflows and data-driven solutions.
 
-**CORE TECHNOLOGIES**
-
 `JavaScript` `Node.js` `Express` `HTML`
+
+<div align="center">
 
 <a href="https://github.com/ishukushwaha24/MediCareX">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-CB72CF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-# ◈ 04 — THE LEETCODE ARENA
+# ◈ 04 — PROBLEM SOLVING
 
-### Every problem solved is another level unlocked.
+### One problem at a time. One step closer to mastery.
 
-<a href="https://leetcode.com/u/Ishu_Kushwaha01/">
+</div>
 
-<img src="https://leetcard.jacoblin.cool/Ishu_Kushwaha01?theme=dark&font=Fira%20Code&ext=heatmap" width="100%"/>
+I enjoy solving coding challenges and strengthening my understanding of Data Structures & Algorithms through consistent practice.
 
-</a>
-
-<br/>
+<div align="center">
 
 <a href="https://leetcode.com/u/Ishu_Kushwaha01/">
-<img src="https://img.shields.io/badge/VIEW_FULL_LEETCODE_PROFILE-CB72CF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-EXPLORE_MY_JOURNEY-CB72CF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
@@ -182,10 +166,6 @@ A healthcare management project exploring digital healthcare workflows and data-
 
 <a href="https://www.linkedin.com/in/ishu-kushwaha-10942b381/">
 <img src="https://img.shields.io/badge/LINKEDIN-713D91?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Ishu_Kushwaha01/">
-<img src="https://img.shields.io/badge/LEETCODE-CB72CF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
